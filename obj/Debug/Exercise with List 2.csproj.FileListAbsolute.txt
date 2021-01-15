@@ -1,0 +1,10 @@
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\bin\Debug\Exercise with List 2.exe.config
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\bin\Debug\Exercise with List 2.exe
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\bin\Debug\Exercise with List 2.pdb
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\obj\Debug\Exercise with List 2.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\obj\Debug\Exercise_with_List_2.Form1.resources
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\obj\Debug\Exercise_with_List_2.Properties.Resources.resources
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\obj\Debug\Exercise with List 2.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\obj\Debug\Exercise with List 2.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\obj\Debug\Exercise with List 2.exe
+C:\Users\mirce\source\repos\Exercise with List 2\Exercise with List 2\obj\Debug\Exercise with List 2.pdb
